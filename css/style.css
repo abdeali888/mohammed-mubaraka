@@ -351,6 +351,9 @@
 /*******************************/
 
 body {
+	min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 	margin: 0;
 	font-family: Arial, Helvetica, Sans-serif;
 }
@@ -583,7 +586,8 @@ a {
 	letter-spacing: 0pt;
 }
 
-.copyright{
+footer{
+	margin-top: auto;
 	color: whitesmoke;
 	width: 100%;
 	background-color: #564861;
