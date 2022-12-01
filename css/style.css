@@ -351,6 +351,7 @@
 /*******************************/
 
 body {
+	margin: 0;
 	font-family: Arial, Helvetica, Sans-serif;
 }
 
@@ -576,4 +577,16 @@ a {
 	display: flex;
 	font-size: 12px;
 	letter-spacing: 0pt;
+}
+
+.copyright{
+	color: whitesmoke;
+	width: 100%;
+	background-color: #564861;
+}
+
+.copyright a{
+	color: whitesmoke;
+	text-decoration: none;
+	text-decoration: underline;
 }
