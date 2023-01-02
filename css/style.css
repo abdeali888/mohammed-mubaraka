@@ -608,3 +608,12 @@ footer{
 	text-decoration: none;
 	text-decoration: underline;
 }
+
+.schedule{
+	color: #874562;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	margin-bottom: 30px;
+	padding-bottom: 0px;
+}

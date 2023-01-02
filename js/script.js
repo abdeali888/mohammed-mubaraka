@@ -3,12 +3,6 @@
       $('.sakura-falling').sakura();
 })(jQuery);
 
-
-$(window).on('click', function(){
-    document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
-});
-
 // Set the date we're counting down to
 var countDownDate = new Date("Jan 08, 2023 19:30:00").getTime();
 
